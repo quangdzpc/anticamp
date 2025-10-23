@@ -1,8 +1,6 @@
 return {
 "ba131d21-aaea-41d6-80da-a2a0cc5517f7", -- Iren PC
-"25cb3892-3dbb-4e2f-a536-1f23b14de04d", -- Iren PE
+"25cb3892-3dbb-4e2f-a536-1f23b14de04d" -- Iren PE
  
-"943CD35C-9C20-4931-9E10-68B4ECBE72E8" -- Khôi
-
 
 }
